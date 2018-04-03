@@ -3,9 +3,9 @@
 #include <ESP8266WebServer.h>
 
 /* Set these to your desired credentials. */
-const char *ssid = "MAD";
+const char *ssid = "YourSSID";
 /* Password must be at least 8 characters long or it will set no password at all */
-const char *password = "madranch";
+const char *password = "12345678";
 
 /* HTML symbols */
 String state_on = "&#9899";
