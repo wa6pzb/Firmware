@@ -11,8 +11,8 @@
 MDNSResponder mdns;
 
 // Replace with your network credentials
-const char* ssid = "APDLM24";
-const char* password = "64947699";
+const char* ssid = "yourAP";
+const char* password = "12345678";
 
 // NETWORK: Static IP details...
 IPAddress ip(192, 168, 1, 101);
