@@ -1,7 +1,7 @@
 /*  ___   ___  ___  _   _  ___   ___   ____ ___  ____  
  * / _ \ /___)/ _ \| | | |/ _ \ / _ \ / ___) _ \|    \ 
  *| |_| |___ | |_| | |_| | |_| | |_| ( (__| |_| | | | |
- * \___/(___/ \___/ \__  |\___/ \___(_)____)___/|_|_|_|
+ * \___/(___/ \___/ \__  |\___/ \___(_)____)___/|_|_|_|.
  *                  (____/ 
  * Use NodeMCU to drive DHT11 and send temperature/humidity value to MQTT server
  * Tutorial URL http://osoyoo.com/2016/11/24/use-nodemcu-to-send-temperaturehumidity-data-to-mqtt-iot-broker/
